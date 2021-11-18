@@ -1,12 +1,10 @@
-# Interfaces
+# Inheritance
 
 Установите зависимости:
 
 ```
 npm install
 ```
-
-# Наследование
 
 В файле `src/Inheritance.ts` выполните следующие задания:
 
